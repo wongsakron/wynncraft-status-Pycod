@@ -4,7 +4,7 @@
 Bot Can Run Use :
 
 `Discord BOT TOKEN`
-`Onwr ID`
+`ONWER ID`
 `DISCORD SEVER`
 
 install
