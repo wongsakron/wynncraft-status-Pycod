@@ -7,8 +7,11 @@ Bot Can Run Use :
 `Onwr ID`
 `DISCORD SEVER`
 
+install
+
+`python 3.10 & pip`
+
 pip install Use:
 
-`pip install python 3.10`
 `pip install requests`
 `pip installpy-cord==2.0.0b7`
